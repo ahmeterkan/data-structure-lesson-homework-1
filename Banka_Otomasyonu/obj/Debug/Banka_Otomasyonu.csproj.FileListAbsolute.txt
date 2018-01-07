@@ -1,0 +1,9 @@
+C:\Users\hamur\Desktop\Banka_Otomasyonu\Banka_Otomasyonu\bin\Debug\Banka_Otomasyonu.exe.config
+C:\Users\hamur\Desktop\Banka_Otomasyonu\Banka_Otomasyonu\obj\Debug\Banka_Otomasyonu.Form1.resources
+C:\Users\hamur\Desktop\Banka_Otomasyonu\Banka_Otomasyonu\obj\Debug\Banka_Otomasyonu.Properties.Resources.resources
+C:\Users\hamur\Desktop\Banka_Otomasyonu\Banka_Otomasyonu\obj\Debug\Banka_Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\hamur\Desktop\Banka_Otomasyonu\Banka_Otomasyonu\bin\Debug\Banka_Otomasyonu.exe
+C:\Users\hamur\Desktop\Banka_Otomasyonu\Banka_Otomasyonu\bin\Debug\Banka_Otomasyonu.pdb
+C:\Users\hamur\Desktop\Banka_Otomasyonu\Banka_Otomasyonu\obj\Debug\Banka_Otomasyonu.exe
+C:\Users\hamur\Desktop\Banka_Otomasyonu\Banka_Otomasyonu\obj\Debug\Banka_Otomasyonu.pdb
+C:\Users\hamur\Desktop\Banka_Otomasyonu\Banka_Otomasyonu\obj\Debug\Banka_Otomasyonu.csprojResolveAssemblyReference.cache
